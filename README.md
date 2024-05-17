@@ -23,3 +23,8 @@ hayley.hassler@yale.edu<br>
 
 
 ###
+
+This directory contains Mathematica notebook calculations for Townsend et al. 2024.
+
+~/[optimal_boosting](https://github.com/hhassle/Townsend_et_al_2024/tree/main/optimal_boosting)/ contains main BNT162b2 Mathematica notebook of IQ-TREE based calculations used to compute waning antibody profiles for cumulative probabilities of breakthrough infection following different booster administration schedules or following infection for all locations specified in main text.
+
